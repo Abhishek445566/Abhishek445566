@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Data Scientist | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Data Scientist and Full stack developer  | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
    
  ## My interest❤️ 
 
