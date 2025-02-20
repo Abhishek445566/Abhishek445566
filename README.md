@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 </h5>
   
 <img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
-<br>
-Data scientist @ Fractal Analytics | Ex- {General Mills, HP Inc, upgrad}| CSE'21
-<br>
+
 Data driven professional with a 3 YOE in Analytics, Programming, and ML/DS technical project work.I am passionate about delivering valuable insights through analytical functions and data retrieval methods. With a strong foundation in Computer Science Engineering and a focus on Data Science, Machine Learning, and Artificial Intelligence, I possess expertise in Python, GCP, SQL, and Excel. My skills also encompass Statistics, Machine Learning, Data Analysis, Deep Learning, Natural Language Processing, Computer Vision, predictive modeling, visualization tools like Power BI, as well as Clustering and Classification & Regression techniques.
 Adept at evaluating students, with a proven track record of improving their performance in machine learning and data science.
 <br>
@@ -81,7 +79,7 @@ Most of the projects that I have worked on or working on can be found here. If y
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-Personality prediction using BERT based uncased model
+Book Reccommendation System Using LLMs
 ```
 ## 🤝Contact me  
 <a target="_blank" href="https://www.linkedin.com/in/abhishek-goyal369/">
