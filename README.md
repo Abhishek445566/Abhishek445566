@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 </div>
 
 Recent Project - https://github.com/Abhishek445566/Book-Recommendation-System
-Coding Profile - https://www.codechef.com/users/goyalcoder
 
+<div>
+   
+
+Coding Profile - https://www.codechef.com/users/goyalcoder
+</div>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Artificial Intelligence Post Graduate and Full stack developer with Solving 455+ problems on Codechef and Azure Certified  | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
