@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 
 Recent Project - https://github.com/Abhishek445566/Book-Recommendation-System
 
+Flow Diagram of Book Recommendation system 
+![image](https://github.com/user-attachments/assets/843033dc-91d5-4afb-85b8-4b42dc567189)
+
+
 <div>
    
 
