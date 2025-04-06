@@ -42,6 +42,9 @@ Flow Diagram of Book Recommendation system
    
 
 Coding Profile - https://www.codechef.com/users/goyalcoder
+
+![image](https://github.com/user-attachments/assets/9ab002bc-6e73-43b3-8761-4029d5a33fd2)
+
 </div>
 
 <div align="center">
