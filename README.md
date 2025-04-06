@@ -31,7 +31,15 @@ Here are some ideas to get you started:
 <div align="center">
    <h1>Hi there, I'm <a href="[https://portfolioaman.herokuapp.com/](https://codepen.io/abhishek1085/full/pojXvxJ)">Abhishek Goyal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Artificial Intelligence Post Graduate and Full stack developer with Solving 600+ problems on Codechef and Azure Certified  | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   
+ ## My interest❤️ 
 
+**Problem Solving and AI**☁️
+
+**Data Structure Algorithm ** 🤖️
+</div>
 Recent Project - https://github.com/Abhishek445566/Book-Recommendation-System
 
 Flow Diagram of Book Recommendation system 
@@ -73,8 +81,8 @@ Skills: Python. GCP, SQL, Excel, Statistics, Machine Learning, Data Science, Dat
 In addition to technical proficiency, I possess strong soft skills that complement my technical expertise. I excel in crafting compelling narratives that effectively communicate insights through storytelling. My analytical thinking allows me to approach complex problems from various perspectives, enabling the derivation of meaningful insights. With excellent communication skills, I foster collaboration with cross-functional teams and stakeholders, ensuring the seamless adoption of data-driven solutions throughout the organization.
 -->
 
-[Get-Resume](https://drive.google.com/file/d/1zut2ahcvyIoCNgj2DTtsTQ2aeaV7s0Id/view?usp=sharing)
-
+<!--[Get-Resume](https://drive.google.com/file/d/1zut2ahcvyIoCNgj2DTtsTQ2aeaV7s0Id/view?usp=sharing)
+-->
 **Talking about Personal Stuffs:**
 
 
