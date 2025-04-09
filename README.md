@@ -103,12 +103,8 @@ Book Reccommendation System Using LLMs
 ## 🤝Contact me  
 <a target="_blank" href="https://www.linkedin.com/in/abhishek-goyal369/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  <a target="_blank" href="https://www.instagram.com/aman___sharma/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>  <a target="_blank" href="mailto:abhishgoyal6@gmail.com"> 
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>  
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />  
 <hr>
 <br>
 
