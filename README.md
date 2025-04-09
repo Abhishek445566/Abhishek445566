@@ -46,14 +46,6 @@ Flow Diagram of Book Recommendation system
 ![image](https://github.com/user-attachments/assets/843033dc-91d5-4afb-85b8-4b42dc567189)
 
 
-<div>
-   
-
-Coding Profile - https://www.codechef.com/users/goyalcoder
-
-![image](https://github.com/user-attachments/assets/9ab002bc-6e73-43b3-8761-4029d5a33fd2)
-
-</div>
 <!--
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Artificial Intelligence Post Graduate and Full stack developer with Solving 600+ problems on Codechef and Azure Certified  | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
