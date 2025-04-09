@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    <h1>Hi there, I'm <a href="[https://portfolioaman.herokuapp.com/](https://codepen.io/abhishek1085/full/pojXvxJ)">Abhishek Goyal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Artificial Intelligence Post Graduate and Full stack developer with Solving 600+ problems on Codechef and Azure Certified  | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abhishek Goyal | 💻 Artificial Intelligence Post Graduate and Full stack developer with Solving 660+ problems on Codechef and Azure Certified  | EX- {Cognizant}<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
    
  ## My interest❤️ 
 
