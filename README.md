@@ -85,7 +85,7 @@ In addition to technical proficiency, I possess strong soft skills that compleme
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
-⚡ Data Scientist with a passion for delievering valuable data through analytical function and data retrieval methods
+⚡ Software Engineer with a passion for delievering valuable data through analytical function and data retrieval methods
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
